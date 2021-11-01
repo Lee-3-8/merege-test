@@ -5,5 +5,6 @@ commit3
 commit4
 commit6
 commit7
-commit9
-commit11
+commit8
+규빈커밋임1
+규빈커밋임2
